@@ -113,7 +113,7 @@ async def run_agent_with_streaming(user_input: str):
 
 
 async def main():
-    st.title("Website Agentic RAG")
+    st.title("HyperAgent")
     st.write("Ask any question about this website..")
 
     # Initialize chat history in session state if not present
